@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./apps/metriboard" },
+    { "path": "./apps/reportcraft" },
+    { "path": "./apps/pos-lite" },
+    { "path": "./apps/inboxzero" },
+    { "path": "./apps/formcraft" },
+    { "path": "./packages/ui" },
+    { "path": "./packages/types" },
+    { "path": "./packages/utils" },
+    { "path": "./packages/hooks" },
+    { "path": "./packages/config" }
+  ]
+}
