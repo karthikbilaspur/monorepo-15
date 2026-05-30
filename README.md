@@ -1,8 +1,3 @@
-Here’s a polished, GitHub-ready `README.md` with badges, visuals, and proper structure:
-
-```md
-<div align="center">
-
 # 🚀 SaaS App Monorepo
 
 **10 Production-Ready SaaS Applications**  
@@ -16,9 +11,6 @@ Built with React + Vite + TypeScript + Turborepo
 
 [Demo](#demo) • [Quick Start](#-quick-start) • [Apps](#-apps) • [Architecture](#-architecture) • [Deploy](#-deployment)
 
-</div>
-
----
 
 ## ✨ What is this?
 
